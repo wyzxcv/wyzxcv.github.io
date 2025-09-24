@@ -48,7 +48,7 @@
 	<header id="header" class="inner">
 		<a href="/" class="profilepic">
 			
-				<img lazy-src="" class="js-avatar">
+				<img lazy-src="/img/5.JPG" class="js-avatar">
 			
 		</a>
 
@@ -79,8 +79,19 @@
 					<nav class="header-nav">
 						<div class="social">
 							
+								<a class="github" target="_blank" href="https://github.com/wyzxcv" title="github">github</a>
+					        
+								<a class="mail" target="_blank" href="/wy3021058459@outlook.com" title="mail">mail</a>
+					        
+								<a class="zhihu" target="_blank" href="https://www.zhihu.com/people/wy-41-98" title="zhihu">zhihu</a>
+					        
 						</div>
 						<!-- music -->
+						
+							<!-- <div style="position: absolute; bottom: 120px; left: auto; width: 85%;"> -->
+							<div style="position: absolute; left: auto; width: 85%;">
+								<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=220 height=86 src="//music.163.com/outchain/player?type=2&id=672188&auto=1&height=66"></iframe>
+							</div>
 						
 					</nav>
 				</section>
@@ -124,7 +135,7 @@
 	<div class="intrude-less">
 		<header id="header" class="inner">
 			<div class="profilepic">
-				<img lazy-src="" class="js-avatar">
+				<img lazy-src="/img/5.JPG" class="js-avatar">
 			</div>
 			<hgroup>
 			  <h1 class="header-author"></h1>
@@ -143,6 +154,12 @@
 			<nav class="header-nav">
 				<div class="social">
 					
+						<a class="github" target="_blank" href="https://github.com/wyzxcv" title="github">github</a>
+			        
+						<a class="mail" target="_blank" href="/wy3021058459@outlook.com" title="mail">mail</a>
+			        
+						<a class="zhihu" target="_blank" href="https://www.zhihu.com/people/wy-41-98" title="zhihu">zhihu</a>
+			        
 				</div>
 			</nav>
 		</header>				
@@ -219,7 +236,7 @@
 <script>
 	var yiliaConfig = {
 		fancybox: true,
-		mathjax: false,
+		mathjax: true,
 		animate: true,
 		isHome: false,
 		isPost: false,
@@ -233,6 +250,26 @@
 <script src="/js/main.js"></script>
 
 
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+});
+
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i=0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';                 
+    }       
+});
+</script>
+
+<script src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js"></script>
 
 
   </div>
