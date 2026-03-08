@@ -130,6 +130,27 @@
 .icon-github:before {
   content: '\e619';
 }
+.icon-google:before {
+  content: '\e611';
+}
+.icon-youtube:before {
+  content: '\e62d';
+}
+.icon-bilibili:before {
+  content: '\e603';
+}
+.icon-zhihu:before {
+  content: '\e62e';
+}
+.icon-telegram:before {
+  content: '\e623';
+}
+.icon-steam:before {
+  content: '\e624';
+}
+.icon-email:before {
+  content: '\e63c';
+}
 .sidebar-toc-btn:before {
   font-family: 'iconfont';
   content: '\e633';

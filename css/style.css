@@ -389,6 +389,27 @@ body [data-aos='zoom-in'] {
 .icon-github:before {
   content: '\e619';
 }
+.icon-google:before {
+  content: '\e611';
+}
+.icon-youtube:before {
+  content: '\e62d';
+}
+.icon-bilibili:before {
+  content: '\e603';
+}
+.icon-zhihu:before {
+  content: '\e62e';
+}
+.icon-telegram:before {
+  content: '\e623';
+}
+.icon-steam:before {
+  content: '\e624';
+}
+.icon-email:before {
+  content: '\e63c';
+}
 .sidebar-toc-btn:before {
   font-family: 'iconfont';
   content: '\e633';
@@ -2749,6 +2770,33 @@ pre .emphasis {
 }
 .sidebar-social-icon:hover {
   transform: scale(1.2);
+}
+.icon-email {
+  color: var(--red-2);
+}
+.icon-github {
+  color: #191717;
+}
+[data-theme='dark'] .icon-github {
+  color: #bc88ff;
+}
+.icon-google {
+  color: #4285f4;
+}
+.icon-youtube {
+  color: #f00;
+}
+.icon-bilibili {
+  color: #00a1d6;
+}
+.icon-zhihu {
+  color: #0084ff;
+}
+.icon-telegram {
+  color: #08c;
+}
+.icon-steam {
+  color: #171a21;
 }
 .sidebar-menu-icon,
 .sidebar-menu-link {
