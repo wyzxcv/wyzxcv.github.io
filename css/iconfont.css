@@ -133,14 +133,29 @@
 .icon-google:before {
   content: '\e611';
 }
+.icon-facebook:before {
+  content: '\e60e';
+}
+.icon-twitter:before {
+  content: '\e62a';
+}
+.icon-linkedin:before {
+  content: '\e614';
+}
 .icon-youtube:before {
   content: '\e62d';
 }
 .icon-bilibili:before {
   content: '\e603';
 }
+.icon-weibo:before {
+  content: '\e62c';
+}
 .icon-zhihu:before {
   content: '\e62e';
+}
+.icon-reddit:before {
+  content: '\e61c';
 }
 .icon-telegram:before {
   content: '\e623';
@@ -178,6 +193,14 @@
 .icon-taichi:before {
   font-family: 'iconfont';
   content: '\e62b';
+}
+.icon-weixin:before {
+  font-family: 'iconfont';
+  content: '\e640';
+}
+.icon-qq:before {
+  font-family: 'iconfont';
+  content: '\e63e';
 }
 .icon-image:before {
   font-family: 'iconfont';
