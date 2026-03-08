@@ -14,7 +14,7 @@
   </script>
 
   
-  <script>window.REIMU_CONFIG = {};window.REIMU_CONFIG.icon_font = '4552607_4k4bc36ef96';window.REIMU_CONFIG.clipboard_tips = {"success":{"zh-CN":"复制成功 (*^▽^*)","en":"Copy successfully (*^▽^*)"},"fail":{"zh-CN":"复制失败 (ﾟ⊿ﾟ)ﾂ","en":"Copy failed (ﾟ⊿ﾟ)ﾂ"},"copyright":{"enable":false,"count":50,"license_type":"by-nc-sa"}};window.REIMU_CONFIG.clipboard_tips.copyright.content = '本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！';window.REIMU_CONFIG.code_block = {"expand":true};window.REIMU_CONFIG.base = 'http://example.com';window.REIMU_CONFIG.i18n_languages = ["en"];</script>
+  <script>window.REIMU_CONFIG = {};window.REIMU_CONFIG.icon_font = '4552607_4k4bc36ef96';window.REIMU_CONFIG.clipboard_tips = {"success":{"zh-CN":"复制成功 (*^▽^*)","en":"Copy successfully (*^▽^*)"},"fail":{"zh-CN":"复制失败 (ﾟ⊿ﾟ)ﾂ","en":"Copy failed (ﾟ⊿ﾟ)ﾂ"},"copyright":{"enable":true,"count":50,"license_type":"by-nc-sa"}};window.REIMU_CONFIG.clipboard_tips.copyright.content = '本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！';window.REIMU_CONFIG.code_block = {"expand":true};window.REIMU_CONFIG.base = 'http://example.com';window.REIMU_CONFIG.i18n_languages = ["en"];</script>
   <title>
     WY&#39;s Blog
   </title>
@@ -179,8 +179,12 @@
 </div>
 <header id="header" aria-label="Site header">
       <picture>
+              <source media="(max-width: 479px)" srcset="/images/banner-600w.webp">
+              <source media="(max-width: 799px)" srcset="/images/banner-800w.webp">
+              <source media="(min-width: 800px)" srcset="/images/banner.webp">
+          <img  fetchpriority="high" src="/images/banner.webp" alt="">
       </picture>
-        <img  fetchpriority="high" src="/images/banner.webp" alt="">
+        <img alt="" style="visibility: hidden;">
   <div id="header-outer">
     <div id="header-title">
           <span id="logo">
@@ -337,14 +341,10 @@
   <div id="footer-info">
     <div>
       <span class="icon-copyright"></span>
-        2020-2026
+        2024-2026
         <span class="footer-info-sep rotate"></span>
       WY
     </div>
-      <div>
-        基于&nbsp;<a href="https://hexo.io/" rel="noopener nofollow noreferrer" target="_blank">Hexo</a>&nbsp;
-        Theme.<a href="https://github.com/D-Sketon/hexo-theme-reimu" rel="noopener nofollow noreferrer" target="_blank">Reimu</a>
-      </div>
       <div>
         <span class="icon-brush"></span>
         1
