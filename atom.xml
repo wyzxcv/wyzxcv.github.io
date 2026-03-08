@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>WY</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>http://example.com/</id>
+  <link href="http://example.com/" rel="alternate"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, WY</rights>
+  <subtitle>WY的博客</subtitle>
+  <title>WY's Blog</title>
+  <updated>2026-03-08T05:55:36.058Z</updated>
+  <entry>
+    <author>
+      <name>WY</name>
+    </author>
+    <content>
+      <![CDATA[<p>test</p>]]>
+    </content>
+    <id>http://example.com/2026/03/07/My-New-Post/</id>
+    <link href="http://example.com/2026/03/07/My-New-Post/"/>
+    <published>2026-03-07T06:55:36.000Z</published>
+    <summary>
+      <![CDATA[<p>test</p>]]>
+    </summary>
+    <title>My New Post</title>
+    <updated>2026-03-08T05:55:36.058Z</updated>
+  </entry>
+</feed>
