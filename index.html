@@ -134,7 +134,7 @@
             <h1 data-aos="slide-up">WY&#39;s Blog</h1>
           </span>
         <h2 id="subtitle-wrap" data-aos="slide-down">
-              <span id="subtitle">WY的博客</span>
+              <span id="subtitle"><span></span></span>
         </h2>
     </div>
   </div>
@@ -424,6 +424,48 @@
 
 <div id="lazy-script">
   <div>
+      
+<script src="https://npm.webcache.cn/typed.js@2.1.0/dist/typed.umd.js" integrity="sha384-cMrTlShXEGSdSFA359p+3aVUxK&#x2F;R+0TAfbRZMcTlAn8yqzxEDj05QsS65nTFMMj4" crossorigin="anonymous" defer onload="initSubtitleTyping()"></script>
+
+      <script data-pjax>
+        window.subtitleTypingConfig = {
+          strings: [],
+          typeSpeed: 100,
+          backSpeed: 50,
+          backDelay: 2000,
+          startDelay: 300,
+          loop: true,
+          shuffle: true,
+          showCursor: true || true,
+          cursorChar: "|",
+          smartBackspace: true || false,
+        };
+
+        function initSubtitleTyping() {
+          const subtitleElement = document.querySelector('#subtitle');
+          if (!subtitleElement || !window.Typed || !window.subtitleTypingConfig) {
+            return;
+          }
+
+          if (window.__typedInstance) {
+            window.__typedInstance.destroy();
+          }
+
+          window.__typedInstance = new Typed('#subtitle span', window.subtitleTypingConfig);
+        }
+        
+        if (!window.__typedInitialized) {
+          window.__typedInitialized = true;
+          
+          if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initSubtitleTyping);
+          } else {
+            initSubtitleTyping();
+          }
+        } else {
+          initSubtitleTyping();
+        }
+      </script>
   </div>
 </div>
 
