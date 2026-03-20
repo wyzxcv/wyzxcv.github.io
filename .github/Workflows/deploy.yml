@@ -1,0 +1,43 @@
+name: Build and Deploy Hexo
+
+on:
+  push:
+    branches:
+      - main  # 源码所在分支
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'  # 与本地环境一致
+
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node_modules-
+
+      - name: Install dependencies & generate
+        run: |
+          npm install
+          npx hexo generate  # 生成 public 文件夹
+
+      - name: Deploy to target repository
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.MY_BLOG_AUTOMATION }}  # 你的 GitHub Token
+          publish_dir: ./public
+          destination_repo: wyzxcv/wyzxcv.github.io  # 目标仓库
+          external_repository: wyzxcv/wyzxcv.github.io  # 目标仓库（如果与 destination_repo 不同）
+          publish_branch: main  # 目标仓库的分支（通常是 main 或 gh-pages）
+          commit_message: ${{ github.event.head_commit.message }}
+          # 可选：保留历史提交记录
+          keep_files: false
