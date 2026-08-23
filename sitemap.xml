@@ -135,14 +135,35 @@
   </url>
   
   <url>
-    <loc>https://wyblog.de5.net/tags/%E5%90%88%E9%9B%86/</loc>
+    <loc>https://wyblog.de5.net/tags/%E4%B8%9C%E6%96%B9project/</loc>
     <lastmod>2026-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wyblog.de5.net/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <loc>https://wyblog.de5.net/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyblog.de5.net/tags/%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyblog.de5.net/tags/%E6%91%98%E8%A6%81/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyblog.de5.net/tags/%E5%90%88%E9%9B%86/</loc>
     <lastmod>2026-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -156,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://wyblog.de5.net/tags/%E6%91%98%E8%A6%81/</loc>
+    <loc>https://wyblog.de5.net/tags/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2026-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -171,27 +192,6 @@
   
   <url>
     <loc>https://wyblog.de5.net/tags/%E5%8A%A8%E6%BC%AB/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wyblog.de5.net/tags/%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wyblog.de5.net/tags/%E4%B8%9C%E6%96%B9project/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wyblog.de5.net/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2026-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
