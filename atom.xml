@@ -10,26 +10,17 @@
   <rights>All rights reserved 2026, WY</rights>
   <subtitle>WY的博客</subtitle>
   <title>WY's Blog</title>
-  <updated>2026-08-28T09:58:06.898Z</updated>
+  <updated>2026-08-28T14:14:48.133Z</updated>
   <entry>
     <author>
       <name>WY</name>
     </author>
+    <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
     <id>https://wyblog.de5.net/2026/08/28/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%80%9A%E5%A4%A7%E4%BC%97%E4%B8%8D%E9%80%82%E5%90%88Linux%E7%B3%BB%E7%BB%9F/</id>
     <link href="https://wyblog.de5.net/2026/08/28/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%80%9A%E5%A4%A7%E4%BC%97%E4%B8%8D%E9%80%82%E5%90%88Linux%E7%B3%BB%E7%BB%9F/"/>
     <published>2026-08-28T16:10:50.000Z</published>
     <title>为什么普通大众不适合Linux系统</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>WY</name>
-    </author>
-    <id>https://wyblog.de5.net/2026/08/28/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B3%E6%9D%BF%E6%98%AF%E6%97%A0%E6%B3%95%E5%8F%96%E4%BB%A3%E7%94%B5%E8%84%91/</id>
-    <link href="https://wyblog.de5.net/2026/08/28/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B3%E6%9D%BF%E6%98%AF%E6%97%A0%E6%B3%95%E5%8F%96%E4%BB%A3%E7%94%B5%E8%84%91/"/>
-    <published>2026-08-28T14:10:05.000Z</published>
-    <title>为什么平板是无法取代电脑</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -37,51 +28,71 @@
     </author>
     <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
     <category term="分析" scheme="https://wyblog.de5.net/tags/%E5%88%86%E6%9E%90/"/>
-    <id>https://wyblog.de5.net/2026/08/27/%E5%A4%A7%E4%BC%97%E6%8A%80%E6%9C%AF%E7%9A%84%E8%A1%B0%E8%90%BD/</id>
-    <link href="https://wyblog.de5.net/2026/08/27/%E5%A4%A7%E4%BC%97%E6%8A%80%E6%9C%AF%E7%9A%84%E8%A1%B0%E8%90%BD/"/>
-    <published>2026-08-27T18:33:32.000Z</published>
-    <title>大众技术的衰落</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <id>https://wyblog.de5.net/2026/08/28/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B3%E6%9D%BF%E6%98%AF%E6%97%A0%E6%B3%95%E5%8F%96%E4%BB%A3%E7%94%B5%E8%84%91/</id>
+    <link href="https://wyblog.de5.net/2026/08/28/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B3%E6%9D%BF%E6%98%AF%E6%97%A0%E6%B3%95%E5%8F%96%E4%BB%A3%E7%94%B5%E8%84%91/"/>
+    <published>2026-08-28T14:10:05.000Z</published>
+    <title>为什么平板是无法取代电脑</title>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
       <name>WY</name>
     </author>
+    <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="分析" scheme="https://wyblog.de5.net/tags/%E5%88%86%E6%9E%90/"/>
+    <id>https://wyblog.de5.net/2026/08/27/%E5%A4%A7%E4%BC%97%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B%E7%9A%84%E8%A1%B0%E8%90%BD/</id>
+    <link href="https://wyblog.de5.net/2026/08/27/%E5%A4%A7%E4%BC%97%E6%8A%80%E6%9C%AF%E8%AE%BA%E5%9D%9B%E7%9A%84%E8%A1%B0%E8%90%BD/"/>
+    <published>2026-08-27T18:33:32.000Z</published>
+    <title>大众技术论坛的衰落</title>
+    <updated>2026-08-28T14:14:48.133Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>WY</name>
+    </author>
+    <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="分析" scheme="https://wyblog.de5.net/tags/%E5%88%86%E6%9E%90/"/>
     <id>https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E6%9C%BA%E5%9C%88%E9%A5%AD%E5%9C%88%E5%8C%96%E4%B8%8E%E8%84%B1%E7%A6%BB%E7%BE%A4%E4%BC%97/</id>
     <link href="https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E6%9C%BA%E5%9C%88%E9%A5%AD%E5%9C%88%E5%8C%96%E4%B8%8E%E8%84%B1%E7%A6%BB%E7%BE%A4%E4%BC%97/"/>
     <published>2026-08-27T18:29:22.000Z</published>
     <title>关于机圈饭圈化与脱离群众</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
       <name>WY</name>
     </author>
+    <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="动漫" scheme="https://wyblog.de5.net/tags/%E5%8A%A8%E6%BC%AB/"/>
     <id>https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E5%8A%A8%E6%BC%AB%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/</id>
     <link href="https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E5%8A%A8%E6%BC%AB%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
     <published>2026-08-27T18:06:22.000Z</published>
     <title>关于动漫的一些想法</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
       <name>WY</name>
     </author>
+    <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="摘要" scheme="https://wyblog.de5.net/tags/%E6%91%98%E8%A6%81/"/>
     <id>https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0/</id>
     <link href="https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0/"/>
     <published>2026-08-27T18:00:03.000Z</published>
     <title>“关于乔布斯传”</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
       <name>WY</name>
     </author>
+    <category term="生活" scheme="https://wyblog.de5.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="分析" scheme="https://wyblog.de5.net/tags/%E5%88%86%E6%9E%90/"/>
     <id>https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E7%9A%84%E6%80%9D%E8%80%83/</id>
     <link href="https://wyblog.de5.net/2026/08/27/%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E7%9A%84%E6%80%9D%E8%80%83/"/>
     <published>2026-08-27T15:44:33.000Z</published>
     <title>“关于使用工具的思考”</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -99,7 +110,7 @@
       <![CDATA[<h3 id="关于作者"><a href="#关于作者" class="headerlink" title="关于作者"></a>关于作者</h3>]]>
     </summary>
     <title>关于1984的一些感想</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -117,7 +128,7 @@
       <![CDATA[<h1 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h1><p>古斯塔夫·勒庞（Gustave Le Bon，1841年5月7日－1931年12月13日）法国社会心理学家。出生于法国诺晋特-勒-卢特鲁，曾]]>
     </summary>
     <title>乌合之众摘要</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -135,7 +146,7 @@
       <![CDATA[<h1 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h1><p>尼尔·波兹曼（Neil Postman，1931—2003），世界著名的媒介文化研究者和批评家，是继麦克卢汉之后世界最重要的媒介文化研究学者]]>
     </summary>
     <title>娱乐至死摘要</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -155,7 +166,7 @@
 <h1 id="一、肖申克的救赎"><a href="#一、肖申克的救赎" class="headerlink" title="一、肖申克的救赎"></a>一、肖]]>
     </summary>
     <title>部分电影资源合集</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -175,7 +186,7 @@
       <![CDATA[<h1 id="一、游戏"><a href="#一、游戏" class="headerlink" title="一、游戏"></a>一、游戏</h1><h2 id="1-东方红魔乡（th06）"><a href="#1-东方红魔乡（th06）" class="headerlink]]>
     </summary>
     <title>东方project资源合集</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -204,7 +215,7 @@
 <]]>
     </summary>
     <title>阿甘正传</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -222,7 +233,7 @@
       <![CDATA[<h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>bat 脚本是 Windows 自带的脚本，非常适合用来<strong>自动化重复性操作</strong>，比如一键备份文件、批量重]]>
     </summary>
     <title>bat脚本命令</title>
-    <updated>2026-08-28T09:58:06.897Z</updated>
+    <updated>2026-08-28T14:14:48.132Z</updated>
   </entry>
   <entry>
     <author>
@@ -240,7 +251,7 @@
       <![CDATA[<h3 id="注：所有内容均来源网络，无法确保安全，请谨慎下载。"><a href="#注：所有内容均来源网络，无法确保安全，请谨慎下载。" class="headerlink" title="注：所有内容均来源网络，无法确保安全，请谨慎下载。"></a>注：所有内容均来源网络]]>
     </summary>
     <title>免费网站合集</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -258,7 +269,7 @@
       <![CDATA[<h1 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h1><p>尼尔·波兹曼（Neil Postman，1931—2003），世界著名的媒介文化研究者和批评家，是继麦克卢汉之后世界最重要的媒介文化研究学者]]>
     </summary>
     <title>童年的消逝摘要</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -281,7 +292,7 @@
 <l]]>
     </summary>
     <title>生活准则</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -302,7 +313,7 @@
 <li><strong>首播：</strong> 201]]>
     </summary>
     <title>我们的父辈三部曲</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -320,7 +331,7 @@
       <![CDATA[<h1 id="一、系统与文件工具"><a href="#一、系统与文件工具" class="headerlink" title="一、系统与文件工具"></a>一、系统与文件工具</h1><h2 id="1-Everything"><a href="#1-Everything"]]>
     </summary>
     <title>电脑软件合集</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
   <entry>
     <author>
@@ -339,6 +350,6 @@
 <h1 id="一、魔法少女小圆"><a href="#一、魔法少女小圆" class="headerlink" title="一、魔法少女小圆"></a>一、魔]]>
     </summary>
     <title>番剧集合分享</title>
-    <updated>2026-08-28T09:58:06.898Z</updated>
+    <updated>2026-08-28T14:14:48.133Z</updated>
   </entry>
 </feed>
